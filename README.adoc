@@ -1,0 +1,7 @@
+ifdef::env-github[]
+gh test
+endif::[]
+
+ifdef::env-gitlab[]
+gl test
+endif::[]
